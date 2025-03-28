@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/gyoun/Desktop/PAD (WiSe24-25)/PAD_ws24 - Gitlab's Repository/pad_w2024/07_Mergesort/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -g -Wall -Wextra -o CMakeFiles\\mergesort.dir\\Zeitmessung.c.obj -c \"C:\\Users\\gyoun\\Desktop\\PAD (WiSe24-25)\\PAD_ws24 - Gitlab's Repository\\pad_w2024\\07_Mergesort\\Zeitmessung.c\"",
+  "file": "C:/Users/gyoun/Desktop/PAD (WiSe24-25)/PAD_ws24 - Gitlab's Repository/pad_w2024/07_Mergesort/Zeitmessung.c",
+  "output": "CMakeFiles/mergesort.dir/Zeitmessung.c.obj"
+},
+{
+  "directory": "C:/Users/gyoun/Desktop/PAD (WiSe24-25)/PAD_ws24 - Gitlab's Repository/pad_w2024/07_Mergesort/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -g -Wall -Wextra -fopenmp -o CMakeFiles\\mergesort.dir\\main.cpp.obj -c \"C:\\Users\\gyoun\\Desktop\\PAD (WiSe24-25)\\PAD_ws24 - Gitlab's Repository\\pad_w2024\\07_Mergesort\\main.cpp\"",
+  "file": "C:/Users/gyoun/Desktop/PAD (WiSe24-25)/PAD_ws24 - Gitlab's Repository/pad_w2024/07_Mergesort/main.cpp",
+  "output": "CMakeFiles/mergesort.dir/main.cpp.obj"
+}
+]
