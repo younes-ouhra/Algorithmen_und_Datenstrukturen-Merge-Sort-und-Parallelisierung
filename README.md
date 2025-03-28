@@ -5,6 +5,7 @@ This project was built along with the Laboratory Algorithms and Data Structures 
 * <b>The mergesort-Function</b>: This function is about merge-sorting the elements recursivlly.
 * The simplemerge-Function: This function sorts two already-sorted list of elements and merge them to a new result list.
 * The pmerge-Function: This Function gets two different lists of elements and has the concept of threat each list separately by inserting each element of a list in the right position of the result list. For that reason the function calls the two functions qualabove and equalbelow.
-<a><img src = "Improved and parallelizable merge through rank determination.png"></a>
+
+  <a><img src = "Improved and parallelizable merge through rank determination.png"></a>
 
 
