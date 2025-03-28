@@ -8,4 +8,4 @@ This project was built along with the Laboratory Algorithms and Data Structures 
 
   <a><img src = "Improved and parallelizable merge through rank determination.png"></a>
 
-
+* The p2merge-Function: For the implementation of this Function, the number of execution units in the computer (in the program as the variable P2mergeThreads) is so important, because the two sorted lists of elements should be divided to the number of execution units (P2mergeThreads). Afterwards, every Sublist from the first list should be merged-sorted with a Sublist of the second list.
